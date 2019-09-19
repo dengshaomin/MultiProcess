@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiProcess</string>
+    <string name="title_activity_remote0">RemoteActivity0</string>
+</resources>
